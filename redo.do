@@ -1,1 +1,1 @@
-ghc --make redo.hs
+ghc redo.hs
